@@ -55,7 +55,7 @@ async def init():
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("SHUKLAMUSIC").info("𝗦𝗧𝗢𝗣 𝐆𝐎𝐊𝐔 𝐗 𝐄𝐝𝐢𝐭𝐢𝐨𝐧™• 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧..")
+    LOGGER("SHUKLAMUSIC").info("𝗦𝗧𝗢𝗣 𝐆𝐎𝐊𝐔 𝐗 𝐄𝐝𝐢𝐭𝐢𝐨𝐧™•🎻 𝗕𝗢𝗧..")
 
 
 if __name__ == "__main__":
