@@ -6,18 +6,18 @@ from SHUKLAMUSIC import app
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 ###
-@app.on_message(filters.command("daxxhub"))
+@app.on_message(filters.command("GOKUxEDITION"))
 async def daxxhub(_, message):
-    text = message.text[len("/daxxhub") :]
-    papadaxx(f"{text}").save(f"daxxhub_{message.from_user.id}.png")
-    await message.reply_photo(f"daxxhub_{message.from_user.id}.png")
+    text = message.text[len("/GOKUxEDITION") :]
+    papadaxx(f"{text}").save(f"GOKUxEDITION{message.from_user.id}.png")
+    await message.reply_photo(f"GOKUxEDITION{message.from_user.id}.png")
     os.remove(f"daxxhub_{message.from_user.id}.png")
 ####
 
 @app.on_message(filters.command(["github", "git"]))
 async def github(_, message):
     if len(message.command) != 2:
-        await message.reply_text("/git itzshukla")
+        await message.reply_text("/git GOKUxEDITION")
         return
 
     username = message.text.split(None, 1)[1]
