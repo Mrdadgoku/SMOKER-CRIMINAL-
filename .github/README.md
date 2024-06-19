@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─「 𝐒ᴛʀᴀɴɢᴇʀ 𝘅 𝐌ᴜsɪᴄ 」─
+    ─「 GOKU 𝘅 MUSIC 」─
 
 </h2>
 
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/13afb9ee5c5da17930f1e.png">
+  <img src="https://graph.org/file/9c5d0138224bd25f91d73.jpg">
 </p>
 
 
