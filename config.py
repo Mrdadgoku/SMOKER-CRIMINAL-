@@ -16,11 +16,11 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","GOKUxEDITION")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "SmokerCriminalBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "ANNIExMUSICbot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "SMOKER")
+BOT_NAME = getenv("BOT_NAME" , "𝙈𝙤𝙣𝙠𝙚𝙮 𝘿. 𝙇𝙪𝙛𝙛𝙮👒")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "SMOKERxMUSIC")
+ASSUSERNAME = getenv("ASSUSERNAME" , "@NNIExMUSICbot")
 # ---------------------------------------------------------
 
 
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002018556839))
+LOGGER_ID = int(getenv("LOGGER_ID", -1001891687243))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6762113050))
+OWNER_ID = int(getenv("OWNER_ID", 6462365139))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/itzshukla/STRANGER-MUSIC",
+    "https://github.com/Mrdadgoku/SMOKER-CRIMINAL-",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+DiSoJvsf1WY1ZmVl")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Smoker_Chats")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+Rl3bz-NiX5w2NTU1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+I5-dDLLxyq1hYzBl")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
