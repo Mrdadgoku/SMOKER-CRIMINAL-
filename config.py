@@ -18,9 +18,9 @@ OWNER_USERNAME = getenv("OWNER_USERNAME","GOKUxEDITION")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "ANNIExMUSICbot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝙈𝙤𝙣𝙠𝙚𝙮 𝘿. 𝙇𝙪𝙛𝙛𝙮👒")
+BOT_NAME = getenv("BOT_NAME" , " 𝙎𝙈𝙊𝙆𝙀𝙍 ✘ 𝘾𝙍𝙄𝙈𝙄𝙉𝘼𝙇𝙎™🫧")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "@NNIExMUSICbot")
+ASSUSERNAME = getenv("ASSUSERNAME" , "@SmokerCriminalBot")
 # ---------------------------------------------------------
 
 
