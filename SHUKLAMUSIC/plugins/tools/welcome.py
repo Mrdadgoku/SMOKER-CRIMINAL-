@@ -199,7 +199,8 @@ async def greet_new_member(_, member: ChatMemberUpdated):
 **☉ ɴᴀᴍᴇ ⧽** {user.mention}
 **☉ ɪᴅ ⧽** `{user.id}`
 **☉ ᴜ_ɴᴀᴍᴇ ⧽** @{user.username}
-**☉ ᴛᴏᴛᴀʟ ᴍᴇᴍʙᴇʀs ⧽** {count}
+**☉ ᴛᴏᴛᴀʟ ᴍᴇᴍʙᴇʀs ⧽** {count.members}
+
 
 **▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬**
 
@@ -231,7 +232,7 @@ async def add_all(client, message):
         lol = await message.reply("🔄 **ᴀᴅᴅɪɴɢ ɢɪᴠᴇɴ ʙᴏᴛ ɪɴ ᴀʟʟ ᴄʜᴀᴛs!**")
 
         async for dialog in userbot.get_dialogs():
-            if dialog.chat.id == -1002193745275:
+            if dialog.chat.id == -1001891687243:
                 continue
             try:
                 await userbot.add_chat_members(dialog.chat.id, app_id)
